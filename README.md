@@ -1,4 +1,3 @@
-# python_dataviz
 ---
 name: 'Python_DataViz'
 description: 'Use python to create basic graphs and visualizations with real data'
